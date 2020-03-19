@@ -1,0 +1,45 @@
+.datipage{
+
+}
+.datipage h1,h2{
+  width: 90%;
+  margin: 10px auto;
+}
+.options{
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: #efefef;
+  justify-content: space-around;
+  align-items: center;
+}
+.option{
+  width: 90%;
+  margin: 10px auto;
+  padding: 0 20px;
+  background-color: rgb(7, 136, 136);
+  height: 70px;
+  border-radius: 10px;
+  line-height: 70px;
+}
+.option.right{
+  width: 90%;
+  margin: 10px auto;
+  padding: 0 20px;
+  background-color: rgb(113, 179, 118);
+  height: 70px;
+  border-radius: 10px;
+  line-height: 70px;
+}
+.option.error{
+  width: 90%;
+  margin: 10px auto;
+  padding: 0 20px;
+  background-color: rgb(150, 93, 95);
+  height: 70px;
+  border-radius: 10px;
+  line-height: 70px;
+}
