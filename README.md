@@ -6,6 +6,6 @@
  2. 新建数据库和数据表，把json文件导入进数据表
  3. 然后在两个目录分别执行`npm install`
  4. server文件夹执行`node index.js`
- 5. zhihu文件夹执行`npm start`
+ 5. app文件夹执行`npm start`
 
 
